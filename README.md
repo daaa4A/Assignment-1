@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning  CSE<br>🎲 Fun fact: This is for my GitHub class </p>
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently purusing bachelors in CSE<br>🎲 Fun fact: This is for my GitHub class </p>
 
 ###
 
@@ -23,9 +23,9 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<br><br>
 
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -43,6 +43,14 @@
 
 ###
 
+<H2>Skills:</H2>
+<ul>
+  <li>Programming</li>
+  <li>Front end development</li>
+  <li>Database Management</li>
+  <li>Coding</li>
+  
+</ul>
 
 <H3>Hobbies:</H3>
 
@@ -50,7 +58,7 @@
 
 
 
-###
+
 
 
 
