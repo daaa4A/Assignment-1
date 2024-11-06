@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning  CSE<br>🎲 Fun fact:This is for my GitHub class </p>
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning  CSE<br>🎲 Fun fact: This is for my GitHub class </p>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-FUN STUFFFFF:
+<H1>FUN STUFFFFF:</H1>
 
 ![SussaGIF](https://github.com/user-attachments/assets/04dbb32c-fed8-4fdc-a1d8-81b83ad88e96)
 
