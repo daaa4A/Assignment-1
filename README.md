@@ -17,6 +17,24 @@
 
 <h2 align="left">I code with Python!!!</h2>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
 ###
 
 <div align="left">
@@ -39,13 +57,11 @@
 
 ###
 
-<H1>FUN STUFFFFF:</H1>
+
+<H3>Hobbies:</H3>
 
 ![SussaGIF](https://github.com/user-attachments/assets/04dbb32c-fed8-4fdc-a1d8-81b83ad88e96)
 
 
-![NodKermitNodGIF](https://github.com/user-attachments/assets/91d3b97f-6bef-4b7a-90e8-ab52db098fa3)
 
-![GorbahGIF](https://github.com/user-attachments/assets/bf2b1f73-6398-4763-bfe0-a9d6bb44d238)
 
-![KermitTheFrogMemeRickrollGIF](https://github.com/user-attachments/assets/ecce7ec2-d733-4e64-b95d-eb34d74beaa8)
